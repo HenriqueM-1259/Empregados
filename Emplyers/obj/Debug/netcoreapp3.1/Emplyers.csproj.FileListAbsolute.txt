@@ -1,0 +1,14 @@
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.exe
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.deps.json
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.runtimeconfig.json
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.runtimeconfig.dev.json
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.dll
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\bin\Debug\netcoreapp3.1\Emplyers.pdb
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.csproj.AssemblyReference.cache
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.AssemblyInfoInputs.cache
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.AssemblyInfo.cs
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.dll
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.pdb
+C:\Users\marcelo.henrique\source\repos\Emplyers\Emplyers\obj\Debug\netcoreapp3.1\Emplyers.genruntimeconfig.cache
